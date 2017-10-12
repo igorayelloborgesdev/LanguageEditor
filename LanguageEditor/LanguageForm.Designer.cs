@@ -30,7 +30,7 @@
         {
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.mark = new System.Windows.Forms.GroupBox();
             this.Load = new System.Windows.Forms.Button();
             this.savefile = new System.Windows.Forms.Button();
             this.PortugueseKey = new System.Windows.Forms.TextBox();
@@ -38,7 +38,8 @@
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.groupBox1.SuspendLayout();
+            this.fileLoaded = new System.Windows.Forms.Label();
+            this.mark.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -60,19 +61,20 @@
             this.label4.TabIndex = 5;
             this.label4.Text = "Portuguese";
             // 
-            // groupBox1
+            // mark
             // 
-            this.groupBox1.Controls.Add(this.Load);
-            this.groupBox1.Controls.Add(this.savefile);
-            this.groupBox1.Controls.Add(this.PortugueseKey);
-            this.groupBox1.Controls.Add(this.EnglishKey);
-            this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(350, 116);
-            this.groupBox1.TabIndex = 7;
-            this.groupBox1.TabStop = false;
+            this.mark.Controls.Add(this.fileLoaded);
+            this.mark.Controls.Add(this.Load);
+            this.mark.Controls.Add(this.savefile);
+            this.mark.Controls.Add(this.PortugueseKey);
+            this.mark.Controls.Add(this.EnglishKey);
+            this.mark.Controls.Add(this.label3);
+            this.mark.Controls.Add(this.label4);
+            this.mark.Location = new System.Drawing.Point(12, 12);
+            this.mark.Name = "mark";
+            this.mark.Size = new System.Drawing.Size(350, 151);
+            this.mark.TabIndex = 7;
+            this.mark.TabStop = false;
             // 
             // Load
             // 
@@ -117,16 +119,25 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // fileLoaded
+            // 
+            this.fileLoaded.AutoSize = true;
+            this.fileLoaded.Location = new System.Drawing.Point(16, 121);
+            this.fileLoaded.Name = "fileLoaded";
+            this.fileLoaded.Size = new System.Drawing.Size(26, 13);
+            this.fileLoaded.TabIndex = 6;
+            this.fileLoaded.Text = "File:";
+            // 
             // LanguageForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(374, 140);
-            this.Controls.Add(this.groupBox1);
+            this.ClientSize = new System.Drawing.Size(374, 175);
+            this.Controls.Add(this.mark);
             this.Name = "LanguageForm";
             this.Text = "Language Editor";
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
+            this.mark.ResumeLayout(false);
+            this.mark.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             this.ResumeLayout(false);
 
@@ -135,7 +146,7 @@
         #endregion
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox mark;
         private System.Windows.Forms.TextBox PortugueseKey;
         private System.Windows.Forms.TextBox EnglishKey;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
@@ -143,6 +154,7 @@
         private System.Windows.Forms.SaveFileDialog saveFileDialog1;
         private System.Windows.Forms.Button Load;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Label fileLoaded;
     }
 }
 
