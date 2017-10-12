@@ -1,0 +1,9 @@
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Debug\LanguageEditor.exe.config
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Debug\LanguageEditor.exe
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Debug\LanguageEditor.pdb
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.csprojResolveAssemblyReference.cache
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.Properties.Resources.resources
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.csproj.GenerateResource.Cache
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.exe
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.pdb
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Debug\LanguageEditor.LanguageForm.resources

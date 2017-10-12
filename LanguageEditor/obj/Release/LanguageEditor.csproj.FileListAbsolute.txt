@@ -1,0 +1,8 @@
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Release\LanguageEditor.exe.config
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Release\LanguageEditor.exe
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\bin\Release\LanguageEditor.pdb
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Release\LanguageEditor.LanguageForm.resources
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Release\LanguageEditor.Properties.Resources.resources
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Release\LanguageEditor.csproj.GenerateResource.Cache
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Release\LanguageEditor.exe
+D:\IGOR\IgorAyelloBorges\PROJETOS\World_Volleyball\Editor\Language\LanguageEditor\LanguageEditor\obj\Release\LanguageEditor.pdb
