@@ -1,0 +1,1 @@
+Language editor for english and portuguese.
